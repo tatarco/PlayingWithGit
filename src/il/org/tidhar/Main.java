@@ -6,6 +6,7 @@ public class Main {
     System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Master Change World");
+        System.out.println("Second Change");
 
 
     }
