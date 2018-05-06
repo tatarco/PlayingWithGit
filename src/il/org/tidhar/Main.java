@@ -14,6 +14,8 @@ public class Main {
         System.out.println("After  Branch Open Commit");
 
         System.out.println("Master Again");
+        System.out.println("Master Again");
+
 
     }
 }
