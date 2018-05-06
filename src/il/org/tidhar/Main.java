@@ -9,5 +9,10 @@ public class Main {
         System.out.println("Second Change");
 
 
+        System.out.println("Before Branch Opened");
+
+        System.out.println("After  Branch Open Commit");
+
+
     }
 }
